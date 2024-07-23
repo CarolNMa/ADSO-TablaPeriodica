@@ -1,0 +1,413 @@
+#principal {
+    display: block;
+    width: 1200px;
+}
+
+.div{
+    float: left;
+    width: 60px;
+    height: 80px;
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    color: rgb(226, 86, 43);
+    font-weight: normal;
+    text-shadow: -1px -1px 0 #ffffff, 2px -2px 0 #ffffff;
+}
+
+
+/* Bloque */
+
+.bloque{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.pesoB{
+    font-size: 15px;
+    margin-right: 67px;
+    color: #ffffff;
+
+}
+.atomicoB{
+    margin-top: -40px;
+    font-size: 15px;
+    margin-left: 75px;
+    color: #ffffff;
+
+}
+
+.EnergiaB{
+    font-size: 11px;
+    margin-right: 67px;
+    margin-top: -18px;
+    color: #ffffff;
+
+}
+
+.Electronegatividad{
+    margin-top: -32px;
+    font-size: 11px;
+    color: #ffffff;
+}
+
+.simboloB{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -18px;
+    color: #ffffff;
+}
+
+.nombreB{
+    margin-top: -20px;
+    color: #ffffff;
+}
+
+.Configuración{
+    font-size: 8px;
+    color: #ffffff;
+    margin-right: 58px;
+    margin-top: -22px;
+}
+
+/*Cuadros*/
+
+.cuadros{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+    position: absolute;
+}
+
+.alcalinos{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: #F0B27A;
+}
+.letra{
+    position: absolute;
+    width: 135px;
+    font-size: 12px;
+    margin-top: -35px;
+    margin-right: -25px;
+    color: #ffffff;
+}
+
+.cuadros2{
+    width: 20px;
+    height: 15px;
+    margin-top: 25px;
+    margin-right: 20px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+}
+.alcalinoterreos{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(226, 103, 81);
+    font-size: 12px;
+}
+.letra2{
+    position: absolute;
+    width: 125px;
+    font-size: 12px;
+    margin-top: -32px;
+    color: #ffffff;
+}
+.cuadros3{
+    width: 20px;
+    height: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 2px;
+    border: 1px #000 solid;
+}
+
+.otMetales{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(190, 66, 214);
+    
+}
+.letra3{
+    position: absolute;
+    width: 122px;
+    font-size: 12px;
+    margin-top: -35px;
+    color: #ffffff;
+}
+
+.cuadros4{
+    width: 20px;
+    height: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+}
+
+.transicion{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(226, 78, 115);
+    position: absolute;
+}
+.letra4{
+    position: absolute;
+    width: 139px;
+    font-size: 10px;
+    margin-top: 1px;
+    color: #ffffff;
+}
+.cuadros5{
+    width: 20px;
+    height: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+}
+
+
+.lantanido{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(85, 165, 38);
+}
+.letra5{
+    position: absolute;
+    width: 100px;
+    font-size: 11px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+
+.cuadros6{
+    width: 20px;
+    height: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+}
+
+.actinidos{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(132, 226, 78);
+}
+
+.letra6{
+    position: absolute;
+    width: 100px;
+    font-size: 11px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+
+.cuadros7{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+    margin-left: 80px;
+}
+
+.metaloides{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(78, 226, 164);
+    
+}
+
+.letra7{
+    position: absolute;
+    width: 100px;
+    font-size: 11px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+
+.cuadros8{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;   
+    margin-top: 10px;
+    border: 1px #000 solid;
+    margin-left: 80px;
+}
+
+
+.noMetales{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: #e27af0;
+}
+
+.letra8{
+    position: absolute;
+    width: 100px;
+    font-size: 11px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+
+.cuadros9{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    margin-top: 10px;
+    border: 1px #000 solid;
+    margin-left: 80px;
+}
+
+
+.halogenos{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(132, 226, 78);
+}
+
+.letra9{
+    position: absolute;
+    width: 100px;
+    font-size: 11px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+
+.cuadros10{
+    width: 20px;
+    height: 15px;
+    margin-top: 10px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+    margin-left: 80px;
+}
+
+
+.gaNobles{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: rgb(78, 226, 206);
+}
+
+.letra10{
+    position: absolute;
+    width: 110px;
+    font-size: 11px;
+    margin-top: -30px;
+    color: #ffffff;
+}
+
+
+.cuadros11{
+    width: 20px;
+    height: 15px;
+    margin-top: 10px;
+    border-radius: 1px;
+    border: 1px #000 solid;
+    margin-left: 80px;
+}
+
+.elDesconocidos{
+    width: 20px;
+    height: 15px;
+    border-radius: 1px;
+    background-color: #989898;
+}
+.letra11{
+    position: absolute;
+    width: 175px;
+    font-size: 12px;
+    margin-top: -35px;
+    color: #ffffff;
+}
+
+/*Diseño de los elementos*/
+
+.atomico {
+    font-size: 15px;
+}
+
+.simbolo {
+    font-size: 20px;
+    line-height: 0px;
+}
+
+.nombre {
+    font-size: 13px;
+    line-height: 0px;
+}
+
+.peso {
+    font-size: 10px;
+    line-height: 0px;
+}
+
+
+
+/*  Bordes */
+.no-border {
+    border: none;
+}
+
+.elemento {
+    width: 60px;
+    height: 80px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+/*Colores*/
+
+#eq1 {
+    background-color: #e27af0;
+}
+
+#eq2 {
+    background-color: #F0B27A;
+}
+
+#eq3 {
+    background-color: rgb(226, 103, 81);
+}
+
+#eq4 {
+    background-color: rgb(226, 78, 115);
+}
+
+#eq5 {
+    background-color: rgb(78, 226, 164);
+}
+
+#eq6 {
+    background-color: rgb(190, 66, 214);
+}
+
+#eq7 {
+    background-color: rgb(132, 226, 78);
+}
+
+#eq8 {
+    background-color: rgb(78, 226, 206);
+}
+
+#eq9 {
+    background-color: rgb(85, 165, 38);
+}
